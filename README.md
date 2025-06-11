@@ -1,4 +1,4 @@
-
+<pre>
 1.Setup: AWS Key Pair
 <img width="960" alt="keypair" src="https://github.com/user-attachments/assets/00633a9a-cbe8-4a99-a113-b025ae82a772" />
 2.Step 1: Create the Network Foundation (VPC)
@@ -22,7 +22,7 @@ Detach & Delete IGW
 Delete VPC:
 <img width="958" alt="vpc-cleanup" src="https://github.com/user-attachments/assets/87d5eb6a-44cc-4e97-ad76-1fd87af391c8" />
 Deleted Security Group & Key Pair
-
+</pre>
 
 
 
